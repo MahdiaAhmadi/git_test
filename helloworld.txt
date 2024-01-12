@@ -1,1 +1,6 @@
-this is my first text file
+
+in here we will learn how to commit changes without going to the staging area. 
+and the shortcut command is commit -a . 
+lets see !!!! 
+
+
